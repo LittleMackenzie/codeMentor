@@ -12,6 +12,8 @@ Code requires the python library feedparser.
 
   '''pip install feedparser'''
 
+Download oneRssFeeder.py and run in the terminal. It will ask you for the URL you are wanting to get the rss feed from then fetch the top three entries.
+
 # Sample output
 
 Enter URL to fetch RSS feed:
